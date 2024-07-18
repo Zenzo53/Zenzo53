@@ -47,6 +47,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
+### Operational Systems (OS)
+<div>
+    <img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=Kali_Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-000000?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-000000?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+
+</div>
+
 ## Projects
 - <a href="https://github.com/Zenzo53/SIEM/tree/main">SIEM Detection Lab</a>
 - SOC Automation Project
