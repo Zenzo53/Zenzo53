@@ -51,7 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
 </div>
 
-## Operational Systems (OS)
+### Operational Systems (OS)
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
