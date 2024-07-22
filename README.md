@@ -24,6 +24,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-C2255C?&style=for-the-badge&logo=Snort&logoColor=white" />
+
 </div>
 
 ### SIEM
