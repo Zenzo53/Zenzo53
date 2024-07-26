@@ -8,29 +8,34 @@ I am a Junior at California State University, Long Beach with a profound interes
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Zenzo53/SIEM/tree/main">SIEM Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| METASPLOIT Pen-Testing report         | <a href="https://github.com/Zenzo53/Pen-Testing-Using-Metasploit/blob/main/README.md"> Pen-Testing </a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
+### Red Team
+
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-3A3A3A?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+</div>
+
 ### Virtualization & Containerization 
 
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-VMWare-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-C2255C?&style=for-the-badge&logo=Snort&logoColor=white" />
 
@@ -69,5 +74,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Zenzo53/SIEM/tree/main">SIEM Detection Lab</a>
+- <a href="https://github.com/Zenzo53/Pen-Testing-Using-Metasploit/blob/main/README.md"> Pen-Testing </a>
 - SOC Automation Project
 - TryHackMe
