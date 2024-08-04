@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Zenzo53/SIEM/tree/main">SIEM Detection Lab</a>|
+| SIEM Implementation and Log Analysis in Kali enviroment         | <a href="https://github.com/Zenzo53/SIEM/tree/main">SIEM Detection Lab / Kali VM </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | METASPLOIT Pen-Testing report         | <a href="https://github.com/Zenzo53/Pen-Testing-Using-Metasploit/blob/main/README.md"> Pen-Testing </a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
